@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/dmars8047/handymkv/internal/hmkv"
+	"github.com/perspace42/handymkv/internal/hmkv"
 )
 
 const applicationVersion = "0.1.16"
